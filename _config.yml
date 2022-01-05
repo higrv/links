@@ -50,7 +50,6 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-
     # VIMEO
   - Name: Vimeo
     URL: 'https://vimeo.com'
@@ -58,42 +57,6 @@ links:
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
-
-    # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
-
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
-
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: theharshtrivedi
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
-
-    # SNAPCHAT
-  - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
-
-    # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'harsh98trivedi'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
 
     # BEHANCE
   - Name: Behance
