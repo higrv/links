@@ -50,13 +50,6 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: gauravision
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
-
   - Name: Links
     URL: https://github.com/harsh98trivedi/links
     Icon-Class: fas fa-link
